@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">Physics and Aerospace Engineering Student</h3>
 
-- 🌱 I’m currently learning **CUDA,Lattice Boltzmann Methods for CFD**
+- 🌱 I’m currently learning **CUDA, Lattice Boltzmann Methods for CFD**
 
 - 📫 How to reach me **alperkarasuer@gmail.com**
 
